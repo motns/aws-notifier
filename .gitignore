@@ -1,0 +1,4 @@
+vendor
+aws-notifier
+*.zip
+configstore.json
